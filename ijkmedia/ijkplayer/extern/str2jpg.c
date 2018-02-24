@@ -1,16 +1,12 @@
 /**
- * \Copyright (C) 2015-2035 FIMI Electronic Technology Limited
+ * \Copyright (C)
  * \file    config.h
- * \author  software group 2 of FIMI
- * \date    2015/10/05
- * \version 1.0 ³õ¸å\n
- * \brief   idr creat.\n
+ * \author
+ * \date    2018
+ * \version 1.0
+ * \brief   idr create.\n
  *
  *                              
- * \n
- * History :    \n
- *            <author>       <time>       <version>         <desc>
- *              aizj      2015/10/05        1.0               create
  * \n
  */
 

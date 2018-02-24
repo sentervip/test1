@@ -42,8 +42,12 @@
                             @"http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8"]];
     [sampleList addObject:@[@"bipbop basic 640x480 @ 650 kbps",
                             @"http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear2/prog_index.m3u8"]];
-    [sampleList addObject:@[@"bipbop basic 640x480 @ 1 Mbps",
-                            @"http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear3/prog_index.m3u8"]];
+    
+    //[sampleList addObject:@[@"bipbop basic 640x480 @ 1 Mbps",
+    //                        @"http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear3/prog_index.m3u8"]];
+    [sampleList addObject:@[@"rtsp://192.168.42.1/live",
+                            @"rtsp://192.168.42.1/live"]];
+    
     [sampleList addObject:@[@"bipbop basic 960x720 @ 2 Mbps",
                             @"http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear4/prog_index.m3u8"]];
     [sampleList addObject:@[@"bipbop basic 22.050Hz stereo @ 40 kbps",

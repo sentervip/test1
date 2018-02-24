@@ -1,8 +1,8 @@
 /**
- * \Copyright (C) 2015-2035 FIMI Electronic Technology Limited
+ * \Copyright (C)
  * \file    errno.h
  * \author  GPL
- * \date    2015/10/05
+ * \date    2018
  * \version  
  * \brief   erron number from POSIX
  *

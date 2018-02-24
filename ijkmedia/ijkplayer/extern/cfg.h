@@ -1,18 +1,4 @@
-/**
- * \Copyright (C) 2015-2035 FIMI Electronic Technology Limited
- * \file    config.h
- * \author  FIMI software group 2
- * \date    2015/09/25
- * \version 1.0 ≥ı∏Â\n
- * \brief   FMÀΩ”–≈‰÷√Œƒº˛.\n
- *
- *                         \n        
- * \n
- * History :    \n
- *            <author>       <time>       <version>         <desc>
- *              aizj      2015/9/25        1.0               create
- * \n
- */
+
 #ifndef _FM_CONFIG_H_
 #define _FM__CONFIG_H_
 #include <stdio.h>
